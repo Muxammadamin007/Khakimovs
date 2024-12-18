@@ -314,177 +314,6 @@
             }
         }
     
-        .othe1{
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(-160px) translateY(130px);
-        }
-    
-        .other2{
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            color: #fff;
-            transform: translateX(-155px) translateY(150px) rotateZ(-13deg);
-        }
-    
-        .other3{
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            color: #fff;
-    
-            transform: translateX(-140px) translateY(165px) rotateZ(-25deg);
-        }
-    
-        .other4{
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(-120px) translateY(180px) rotateZ(-38deg );
-        }
-    
-        .other5{
-            color: #fff;
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(-85px) translateY(180px) rotateZ(-55deg);
-        }
-    
-        .other6{
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(-47px) translateY(170px) rotateZ(-70deg);
-        }
-    
-        .other7{
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(-5px) translateY(155px) rotateZ(-85deg);
-        }
-        .other8{
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(37px) translateY(130px) rotateZ(-102deg);
-            color: #fff;
-        }
-        .other9{
-            color: black;
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(77px) translateY(90px) rotateZ(-118deg);
-        }
-        .other10{
-            color: black;
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(110px) translateY(40px) rotateZ(-125deg);
-        }
-        .other11{
-            color: #fff;
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(130px) translateY(-20px) rotateZ(-145deg);
-        }
-        .other12{
-            color: #fff;
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(145px) translateY(-80px) rotateZ(-160deg);
-        }
-        .other13{
-            color: black;
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(150px) translateY(-140px) rotateZ(-175deg);
-        }
-        .other14{
-            color: white;
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(150px) translateY(-205px) rotateZ(-190deg);
-        }
-        .other15{
-            color: black;
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(135px) translateY(-270px) rotateZ(-210deg);
-        }
-        .other16{
-            color: black;
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(115px) translateY(-330px) rotateZ(-220deg);
-        }
-        .other17{
-            color: white;
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(79px) translateY(-375px) rotateZ(-235deg);
-        }
-        .other18{
-            color: black;
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(40px) translateY(-415px) rotateZ(-255deg);
-        }
-        .other19{
-            color: black;
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(2px) translateY(-440px) rotateZ(-270deg);
-        }
-        .other20{
-            color: white;
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(-40px) translateY(-460px) rotateZ(-285deg);
-        }
-        .other21{
-            color:black;
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(-75px) translateY(-470px) rotateZ(-300deg);
-        }
-        .other22{
-            color:black;
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(-105px) translateY(-470px) rotateZ(-310deg);
-        }
-        .other23{
-            color:white;
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(-132px) translateY(-455px) rotateZ(-325deg);
-        }
-        .other24{
-            color:black;
-            width: 100px;
-            font-size: 20px;
-            font-family: sans-serif;
-            transform: translateX(-152px) translateY(-440px) rotateZ(-345deg);
-        }
         
     }
     
@@ -499,9 +328,8 @@
     
     .show {
         position: absolute;
-        top: 75%;
-
-        left: 60%;
+        top: 66%;
+        left: 45%;
         width: 0;
         height: 0;
         border-left: 20px solid transparent; /* Transparent left side */
@@ -550,8 +378,8 @@
         font-size: 20px;
         font-family: sans-serif;
         background-color: #fff;
-        margin-top: 35%;
-        margin-left: 50%;
+        margin-top: 75%;
+        margin-left: 35%;
     
       }
     
@@ -560,7 +388,7 @@
         border: 1px solid red;
         width: 120%;
         position: absolute;
-        top: 100%;
+        top: 120%;
         left: 2%;
         display: flex;
         flex-direction: column;
