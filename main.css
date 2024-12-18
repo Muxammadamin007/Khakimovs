@@ -281,7 +281,7 @@
       }
   }
 
-  @media (min-width: 400px) and (max-width: 768px) {
+  @media (min-width: 350px) and (max-width: 768px) {
     *{
         margin: 0;
         padding: 0;
@@ -499,9 +499,9 @@
     
     .show {
         position: absolute;
-        top: 70%;
+        top: 75%;
 
-        left: 53%;
+        left: 60%;
         width: 0;
         height: 0;
         border-left: 20px solid transparent; /* Transparent left side */
@@ -512,7 +512,7 @@
       
     
       .questions{
-        width: 100%;
+        width: 120%;
         display: flex;
         flex-direction: column;
         margin-top: 70%;
@@ -550,21 +550,21 @@
         font-size: 20px;
         font-family: sans-serif;
         background-color: #fff;
-        margin-top: 30%;
-        margin-left: 42%;
+        margin-top: 35%;
+        margin-left: 50%;
     
       }
     
       
       .alert{
         border: 1px solid red;
-        width: 100%;
+        width: 120%;
         position: absolute;
-        top: 95%;
+        top: 100%;
         left: 2%;
         display: flex;
         flex-direction: column;
-        height: 25vh;
+        height: 30vh;
         gap: 5%;    
         h2{
             color: red;
